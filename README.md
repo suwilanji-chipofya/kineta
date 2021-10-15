@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+## Kineta Blog frontend written using nextjs,This is a platform I hope that one day will make a huge contribution to the development kingdom
